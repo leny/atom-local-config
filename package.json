@@ -8,5 +8,7 @@
   "engines": {
     "atom": "*"
   },
-  "dependencies": {}
+  "dependencies": {
+    "cson-parser": "^1.2.0"
+  }
 }
