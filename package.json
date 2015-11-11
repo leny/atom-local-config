@@ -1,0 +1,12 @@
+{
+  "name": "local-config",
+  "version": "0.0.1",
+  "main": "./lib/main",
+  "description": "Override atom's config with a local file.",
+  "repository": "https://github.com/leny/atom-local-config",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {}
+}
