@@ -10,6 +10,16 @@ When a folder/project is loaded inside atom, **local-config** look for a local c
 
 If Atom can't find a local config file, it will restore the previously backed up config, if exists.
 
+### Commands
+
+#### Apply local config
+
+Look for a local config file then apply it if exists.
+
+#### Restore config
+
+Restore previously backed up config.
+
 ### Settings
 
 #### Local config file path
