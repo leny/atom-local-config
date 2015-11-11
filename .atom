@@ -1,0 +1,14 @@
+"*":
+  core:
+    ignoredNames: [
+      ".gitignore"
+    ]
+  "fuzzy-finder":
+    ignoredNames: [
+      "*.json"
+      "*.md"
+    ]
+".coffee.source":
+  editor:
+    tabLength: 4
+    softTabs: true
