@@ -1,6 +1,6 @@
 {
   "name": "local-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./lib/main",
   "description": "Override atom's config with a local file.",
   "repository": "https://github.com/leny/atom-local-config",
