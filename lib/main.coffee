@@ -44,6 +44,7 @@ module.exports =
                 atom.notifications.addWarning "No local config file found.",
                     detail: "You can change the possible paths to lookup inside package's settings."
                     dismissable: yes
+            return
         ConfigManager.restore() if ConfigManager.hasConfigBackup()
         ConfigManager.backup()
         try
